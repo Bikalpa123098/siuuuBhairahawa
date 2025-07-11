@@ -8,7 +8,7 @@ import CardDetails from './Pages/CardDetails'
 
 function App() {
   return (
-    <div className='p-10'>
+    <div className=''>
     <Toolbar/>
    <Routes>
     <Route path="/" element={<Home />} />
